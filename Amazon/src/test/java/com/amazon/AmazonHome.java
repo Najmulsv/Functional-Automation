@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * Created by rrt on 4/11/2015.
 
- * /
+ *
 public class AmazonHome extends Base {
 
     @Test
