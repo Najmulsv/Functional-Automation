@@ -27,7 +27,6 @@
         <module name="ChaseBank" />
         <module name="Cnn" />
         <module name="Common" />
-        <module name="Facebook" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
